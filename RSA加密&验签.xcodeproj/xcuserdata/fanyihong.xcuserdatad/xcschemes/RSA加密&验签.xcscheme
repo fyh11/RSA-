@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5ED2D5ED1E8F45FF00F83532"
+               BuildableName = "RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;.app"
+               BlueprintName = "RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;"
+               ReferencedContainer = "container:RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -13,6 +29,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5ED2D5ED1E8F45FF00F83532"
+            BuildableName = "RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;.app"
+            BlueprintName = "RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;"
+            ReferencedContainer = "container:RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +51,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5ED2D5ED1E8F45FF00F83532"
+            BuildableName = "RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;.app"
+            BlueprintName = "RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;"
+            ReferencedContainer = "container:RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +70,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5ED2D5ED1E8F45FF00F83532"
+            BuildableName = "RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;.app"
+            BlueprintName = "RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;"
+            ReferencedContainer = "container:RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
