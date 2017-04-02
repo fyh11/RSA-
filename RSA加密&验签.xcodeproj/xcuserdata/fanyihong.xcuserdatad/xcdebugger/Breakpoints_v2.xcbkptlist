@@ -9,38 +9,6 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;/ViewController.m"
-            timestampString = "512709245.631701"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
-            landmarkName = "-test"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;/ViewController.m"
-            timestampString = "512709438.797995"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "57"
-            endingLineNumber = "57"
-            landmarkName = "-test"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
             filePath = "RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;/RSACryption/XYRSACryption.m"
             timestampString = "512709328.558783"
             startingColumnNumber = "9223372036854775807"
@@ -52,18 +20,28 @@
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;/RSACryption/XYRSACryption.m"
-            timestampString = "512709333.379394"
+            filePath = "RSA&#x52a0;&#x5bc6;&amp;&#x9a8c;&#x7b7e;/ViewController.m"
+            timestampString = "512732602.502319"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "229"
-            endingLineNumber = "229"
-            landmarkName = "-sha256WithRSA:privateKey:"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "-cryption:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
